@@ -1,5 +1,5 @@
-Bank Customer Churn Analysis
-
+**Bank Customer Churn Analysis
+**
 Overview
 
 This project analyzes bank customer churn using Excel. It explores patterns through Pivot Tables, statistical tests, and data visualization.
